@@ -1,0 +1,161 @@
+Downloading: "https://download.pytorch.org/models/resnet50-11ad3fa6.pth" to /Users/apple/.cache/torch/hub/checkpoints/resnet50-11ad3fa6.pth
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 97.8M/97.8M [00:14<00:00, 7.05MB/s]
+/opt/anaconda3/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:28: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn("The verbose parameter is deprecated. Please use get_last_lr() "
+Epoch 1/50
+--------------------
+Train Loss: 1.7452, Train Accuracy: 0.2667
+Epoch 2/50
+--------------------
+Train Loss: 1.0868, Train Accuracy: 0.8833
+Epoch 3/50
+--------------------
+Train Loss: 0.3949, Train Accuracy: 0.9833
+Epoch 4/50
+--------------------
+Train Loss: 0.0836, Train Accuracy: 1.0000
+Epoch 5/50
+--------------------
+Train Loss: 0.1598, Train Accuracy: 0.9333
+Epoch 6/50
+--------------------
+Train Loss: 0.0373, Train Accuracy: 1.0000
+Epoch 7/50
+--------------------
+Train Loss: 0.0331, Train Accuracy: 1.0000
+Epoch 8/50
+--------------------
+Train Loss: 0.0070, Train Accuracy: 1.0000
+Epoch 9/50
+--------------------
+Train Loss: 0.0577, Train Accuracy: 0.9833
+Epoch 10/50
+--------------------
+Train Loss: 0.0239, Train Accuracy: 0.9833
+Epoch 11/50
+--------------------
+Train Loss: 0.0433, Train Accuracy: 0.9833
+Epoch 12/50
+--------------------
+Train Loss: 0.0848, Train Accuracy: 0.9667
+Epoch 13/50
+--------------------
+Train Loss: 0.0528, Train Accuracy: 0.9667
+Epoch 14/50
+--------------------
+Train Loss: 0.0415, Train Accuracy: 0.9833
+Epoch 15/50
+--------------------
+Train Loss: 0.0301, Train Accuracy: 0.9833
+Epoch 16/50
+--------------------
+Train Loss: 0.0097, Train Accuracy: 1.0000
+Epoch 17/50
+--------------------
+Train Loss: 0.0333, Train Accuracy: 1.0000
+Epoch 18/50
+--------------------
+Train Loss: 0.0664, Train Accuracy: 0.9833
+Epoch 19/50
+--------------------
+Train Loss: 0.0085, Train Accuracy: 1.0000
+Epoch 20/50
+--------------------
+Train Loss: 0.0046, Train Accuracy: 1.0000
+Epoch 21/50
+--------------------
+Train Loss: 0.0325, Train Accuracy: 1.0000
+Epoch 22/50
+--------------------
+Train Loss: 0.1223, Train Accuracy: 0.9667
+Epoch 23/50
+--------------------
+Train Loss: 0.0025, Train Accuracy: 1.0000
+Epoch 24/50
+--------------------
+Train Loss: 0.0067, Train Accuracy: 1.0000
+Epoch 25/50
+--------------------
+Train Loss: 0.0405, Train Accuracy: 0.9833
+Epoch 26/50
+--------------------
+Train Loss: 0.0019, Train Accuracy: 1.0000
+Epoch 27/50
+--------------------
+Train Loss: 0.0442, Train Accuracy: 0.9833
+Epoch 28/50
+--------------------
+Train Loss: 0.0022, Train Accuracy: 1.0000
+Epoch 29/50
+--------------------
+Train Loss: 0.0191, Train Accuracy: 0.9833
+Epoch 30/50
+--------------------
+Train Loss: 0.0053, Train Accuracy: 1.0000
+Epoch 31/50
+--------------------
+Train Loss: 0.0033, Train Accuracy: 1.0000
+Epoch 32/50
+--------------------
+Train Loss: 0.0056, Train Accuracy: 1.0000
+Epoch 33/50
+--------------------
+Train Loss: 0.0046, Train Accuracy: 1.0000
+Epoch 34/50
+--------------------
+Train Loss: 0.0130, Train Accuracy: 1.0000
+Epoch 35/50
+--------------------
+Train Loss: 0.1064, Train Accuracy: 0.9667
+Epoch 36/50
+--------------------
+Train Loss: 0.0091, Train Accuracy: 1.0000
+Epoch 37/50
+--------------------
+Train Loss: 0.0727, Train Accuracy: 0.9833
+Epoch 38/50
+--------------------
+Train Loss: 0.0138, Train Accuracy: 1.0000
+Epoch 39/50
+--------------------
+Train Loss: 0.0031, Train Accuracy: 1.0000
+Epoch 40/50
+--------------------
+Train Loss: 0.0051, Train Accuracy: 1.0000
+Epoch 41/50
+--------------------
+Train Loss: 0.0030, Train Accuracy: 1.0000
+Epoch 42/50
+--------------------
+Train Loss: 0.0019, Train Accuracy: 1.0000
+Epoch 43/50
+--------------------
+Train Loss: 0.0055, Train Accuracy: 1.0000
+Epoch 44/50
+--------------------
+Train Loss: 0.0040, Train Accuracy: 1.0000
+Epoch 45/50
+--------------------
+Train Loss: 0.0517, Train Accuracy: 0.9833
+Epoch 46/50
+--------------------
+Train Loss: 0.0116, Train Accuracy: 1.0000
+Epoch 47/50
+--------------------
+Train Loss: 0.0300, Train Accuracy: 1.0000
+Epoch 48/50
+--------------------
+Train Loss: 0.0118, Train Accuracy: 1.0000
+Epoch 49/50
+--------------------
+Train Loss: 0.0187, Train Accuracy: 1.0000
+Epoch 50/50
+--------------------
+Train Loss: 0.0052, Train Accuracy: 1.0000
+Best Train Accuracy: 1.0000
+Test Accuracy: 0.8276
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/research/TNRproject/代码2.0/cat_recognition_model/cat_recognition_modified(1).py", line 254, in <module>
+    checkpoint_file = save_model_parameters(
+                      ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'save_model_parameters' is not defined

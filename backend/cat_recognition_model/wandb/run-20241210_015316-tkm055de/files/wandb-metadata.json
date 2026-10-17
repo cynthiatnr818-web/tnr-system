@@ -1,0 +1,41 @@
+{
+  "os": "macOS-10.16-x86_64-i386-64bit",
+  "python": "CPython 3.11.7",
+  "startedAt": "2024-12-09T17:53:16.425294Z",
+  "program": "/Users/apple/Desktop/research/TNRproject/代码2.0/cat_recognition_model/cat_recognition_modified(1).py",
+  "codePath": "cat_recognition_modified(1).py",
+  "email": "cynthiatnr818@gmail.com",
+  "root": "/Users/apple/Desktop/research/TNRproject/代码2.0/cat_recognition_model",
+  "host": "MacBook-Air-10.local",
+  "username": "apple",
+  "executable": "/opt/anaconda3/bin/python",
+  "codePathLocal": "cat_recognition_modified(1).py",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "197920391168"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "197920391168"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Unknown",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 8,
+    "swapTotalBytes": "2147483648",
+    "ramTotalBytes": "8589934592"
+  }
+}

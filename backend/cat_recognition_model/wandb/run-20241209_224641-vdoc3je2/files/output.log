@@ -1,0 +1,77 @@
+Epoch 1/25
+--------------------
+Train Loss: 1.7122, Train Accuracy: 0.3167
+Epoch 2/25
+--------------------
+Train Loss: 0.2878, Train Accuracy: 0.9167
+Epoch 3/25
+--------------------
+Train Loss: 0.0535, Train Accuracy: 1.0000
+Epoch 4/25
+--------------------
+Train Loss: 0.0785, Train Accuracy: 0.9667
+Epoch 5/25
+--------------------
+Train Loss: 0.0603, Train Accuracy: 0.9833
+Epoch 6/25
+--------------------
+Train Loss: 0.2238, Train Accuracy: 0.9167
+Epoch 7/25
+--------------------
+Train Loss: 0.1697, Train Accuracy: 0.9500
+Epoch 8/25
+--------------------
+Train Loss: 0.0816, Train Accuracy: 0.9667
+Epoch 9/25
+--------------------
+Train Loss: 0.0440, Train Accuracy: 1.0000
+Epoch 10/25
+--------------------
+Train Loss: 0.0241, Train Accuracy: 1.0000
+Epoch 11/25
+--------------------
+Train Loss: 0.0144, Train Accuracy: 1.0000
+Epoch 12/25
+--------------------
+Train Loss: 0.0056, Train Accuracy: 1.0000
+Epoch 13/25
+--------------------
+Train Loss: 0.0037, Train Accuracy: 1.0000
+Epoch 14/25
+--------------------
+Train Loss: 0.0058, Train Accuracy: 1.0000
+Epoch 15/25
+--------------------
+Train Loss: 0.0036, Train Accuracy: 1.0000
+Epoch 16/25
+--------------------
+Train Loss: 0.0033, Train Accuracy: 1.0000
+Epoch 17/25
+--------------------
+Train Loss: 0.0042, Train Accuracy: 1.0000
+Epoch 18/25
+--------------------
+Train Loss: 0.0033, Train Accuracy: 1.0000
+Epoch 19/25
+--------------------
+Train Loss: 0.0028, Train Accuracy: 1.0000
+Epoch 20/25
+--------------------
+Train Loss: 0.0031, Train Accuracy: 1.0000
+Epoch 21/25
+--------------------
+Train Loss: 0.0098, Train Accuracy: 1.0000
+Epoch 22/25
+--------------------
+Train Loss: 0.0032, Train Accuracy: 1.0000
+Epoch 23/25
+--------------------
+Train Loss: 0.0043, Train Accuracy: 1.0000
+Epoch 24/25
+--------------------
+Train Loss: 0.0057, Train Accuracy: 1.0000
+Epoch 25/25
+--------------------
+Train Loss: 0.0038, Train Accuracy: 1.0000
+Best Train Accuracy: 1.0000
+Test Accuracy: 0.5862

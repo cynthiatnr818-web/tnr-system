@@ -1,0 +1,16 @@
+{"time":"2024-12-09T22:46:41.454142+08:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-09T22:46:41.454205+08:00","level":"INFO","msg":"created symlink","path":"/Users/apple/Desktop/research/TNRproject/代码2.0/cat_recognition_model/wandb/run-20241209_224641-vdoc3je2/logs/debug-core.log"}
+{"time":"2024-12-09T22:46:41.604684+08:00","level":"INFO","msg":"created new stream","id":"vdoc3je2"}
+{"time":"2024-12-09T22:46:41.605186+08:00","level":"INFO","msg":"stream: started","id":"vdoc3je2"}
+{"time":"2024-12-09T22:46:41.60536+08:00","level":"INFO","msg":"handler: started","stream_id":"vdoc3je2"}
+{"time":"2024-12-09T22:46:41.605508+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"vdoc3je2"}
+{"time":"2024-12-09T22:46:41.605505+08:00","level":"INFO","msg":"sender: started","stream_id":"vdoc3je2"}
+{"time":"2024-12-09T22:46:43.358751+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T22:58:36.910124+08:00","level":"INFO","msg":"stream: closing","id":"vdoc3je2"}
+{"time":"2024-12-09T22:58:36.915091+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-09T22:58:36.947653+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-09T22:58:39.242614+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-09T22:58:39.971266+08:00","level":"INFO","msg":"handler: closed","stream_id":"vdoc3je2"}
+{"time":"2024-12-09T22:58:39.971712+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vdoc3je2"}
+{"time":"2024-12-09T22:58:39.972375+08:00","level":"INFO","msg":"sender: closed","stream_id":"vdoc3je2"}
+{"time":"2024-12-09T22:58:39.973124+08:00","level":"INFO","msg":"stream: closed","id":"vdoc3je2"}
